@@ -1,0 +1,24 @@
+# Entorns virtuals Python
+env/
+env1/
+venv/
+.venv/
+
+# Fitxers temporals de Python
+__pycache__/
+*.pyc
+
+# Base de dades local
+db.sqlite3
+
+# Variables d'entorn i secrets
+.env
+.env.*
+
+# Fitxers de desenvolupament
+.coverage
+.pytest_cache/
+
+# Fitxers generats
+staticfiles/
+media/
